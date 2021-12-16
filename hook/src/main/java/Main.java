@@ -3,5 +3,6 @@ public class Main {
             String lol = "lol ";
                 String lol2 = "lol ";
                     String lol3 = "lol ";
+                        String lol4 = "lol ";
     }
 }
